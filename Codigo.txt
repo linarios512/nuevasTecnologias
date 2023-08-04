@@ -1,0 +1,2 @@
+ Hola Grupo
+ El tema de hoy es como usar git 
